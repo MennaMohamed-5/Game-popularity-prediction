@@ -2,6 +2,10 @@
 
 This project is a Machine Learning-based system for predicting game popularity using both **Regression** and **Classification** models. It also includes a simple **GUI** for easy interaction and testing.
 
+### 🔗 Live Deployments
+* 🚀 **Regression App:** [Live Demo](https://lnkd.in/euKKwiCB)
+* 🚀 **Classification App:** [Live Demo](https://lnkd.in/eFSvX5Rp)
+
 ## 📌 Project Overview
 
 The goal of this project is to analyze game-related features and predict:
